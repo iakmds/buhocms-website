@@ -99,7 +99,7 @@ nav > ul > li > a:hover {
   grid-column: 1/4;
 }
 
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 768px) {
   nav > a {
     display: none !important;
   }
@@ -112,7 +112,7 @@ nav > ul > li > a:hover {
   }
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 600px) {
   header {
     position: relative !important;
   }
