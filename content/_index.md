@@ -72,20 +72,24 @@ macOS support is planned. Unfortunately I do not currently own a macOS device; t
 
 {{< linux title="Linux" >}}
 
-Supported | In progress | Planned
-|-|-|-|
-| AppImage | Flatpak (Flathub) | Snap |
-| .deb | | AUR |
-| | | .rpm |
+Supported | Planned
+|-|-|
+| Flatpak (Flathub) | Snap |
+| AppImage | AUR |
+| .deb | .rpm |
 
-To install BuhoCMS as a **.deb** package, download the [BuhoCMS-Linux.deb](https://github.com/iakmds/buhocms/releases/latest/download/BuhoCMS-Linux.deb) file by clicking the button below or get it from the GitHub [releases](https://github.com/iakmds/buhocms/releases) page.
+To install BuhoCMS as a **Flatpak** on Flathub, head over to [flathub.org](https://flathub.org/apps/details/org.buhocms.BuhoCMS) by clicking the button below.
 
 To install BuhoCMS as an **AppImage**, download the [BuhoCMS-Linux.AppImage](https://github.com/iakmds/buhocms/releases/latest/download/BuhoCMS-Linux.AppImage) file by clicking the button below or get it from the GitHub [releases](https://github.com/iakmds/buhocms/releases) page, make it executable and run it. 
 For better desktop integration consider using [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher).
 
-{{< button link="https://github.com/iakmds/buhocms/releases/latest/download/BuhoCMS-Linux.deb" title="Download .deb" >}}
+To install BuhoCMS as a **.deb** package, download the [BuhoCMS-Linux.deb](https://github.com/iakmds/buhocms/releases/latest/download/BuhoCMS-Linux.deb) file by clicking the button below or get it from the GitHub [releases](https://github.com/iakmds/buhocms/releases) page.
+
+{{< button link="https://flathub.org/apps/details/org.buhocms.BuhoCMS" title="Download on Flathub" >}}
 
 {{< button link="https://github.com/iakmds/buhocms/releases/latest/download/BuhoCMS-Linux.AppImage" title="Download .AppImage" >}}
+
+{{< button link="https://github.com/iakmds/buhocms/releases/latest/download/BuhoCMS-Linux.deb" title="Download .deb" >}}
 
 # About
 
