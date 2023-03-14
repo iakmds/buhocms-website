@@ -47,6 +47,10 @@ a:hover {
   text-decoration: underline;
 }
 
+.button:hover {
+  text-decoration: none;
+}
+
 main {
   padding: 0 !important;
 }
