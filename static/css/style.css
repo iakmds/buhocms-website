@@ -131,6 +131,7 @@ nav > ul > li > a:hover {
   background-color: rgb(255, 233, 126);
   text-align: center;
   grid-column: 1/4;
+  padding: 0 1em;
 }
 
 @media only screen and (max-width: 768px) {
