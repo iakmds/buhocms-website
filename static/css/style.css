@@ -75,6 +75,12 @@ a:hover {
 #back-to-top > svg {
   fill: var(--text-light);
 }
+
+.button {
+  margin: 0.2rem 0px;
+  display: inline-block;
+}
+
 main {
   padding: 0 !important;
 }
