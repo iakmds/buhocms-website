@@ -56,6 +56,25 @@ a:hover {
   text-decoration: none;
 }
 
+#back-to-top {
+  position: sticky;
+  display: none;
+  height: 0;
+  top: -70px;
+  transform: translateY(100vh);
+  z-index: 2;
+  grid-column: 1/-1;
+  text-align: right;
+  padding-right: 35px;
+}
+
+#back-to-top:hover {
+  transform: translateY(calc(100vh - 5px));
+}
+
+#back-to-top > svg {
+  fill: var(--text-light);
+}
 main {
   padding: 0 !important;
 }
@@ -118,6 +137,10 @@ nav > ul > li > a:hover {
     padding: 0.1rem 1rem;
     text-decoration: none;
     line-height: 2;
+  }
+
+  #back-to-top {
+    display: inline-block;    
   }
 }
 
