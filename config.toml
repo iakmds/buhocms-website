@@ -1,10 +1,10 @@
 baseURL = "https://buhocms.org"
-title = "BuhoCMS - A local CMS for Hugo static sites"
+title = "BuhoCMS - A local CMS for Hugo and Jekyll static sites"
 languageCode = "en-us"
 disableKinds = ['taxonomy', 'term']
 
 [params]
-  description = "BuhoCMS is a free and open source local CMS for Hugo static sites"
+  description = "BuhoCMS is a free and open source local CMS for Hugo and Jekyll static sites"
   source = "https://github.com/iakmds/buhocms-website"
   favicon = "https://raw.githubusercontent.com/iakmds/buhocms/main/.github/icon.svg"
   version = "0.6.0"
