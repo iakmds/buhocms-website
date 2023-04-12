@@ -5,7 +5,6 @@
     <link>https://buhocms.org/</link>
     <description>Recent content in Home on BuhoCMS - A local CMS for Hugo static sites</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 09 Mar 2023 21:14:48 +0100</lastBuildDate><atom:link href="https://buhocms.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://buhocms.org/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
