@@ -11,20 +11,20 @@ draft: false
 
 {{< warning title="⚠️ Alpha warning" content="BuhoCMS is currently in Alpha. While most things should work as expected, bugs are likely to exist. It is a good idea to backup your website folders just in case. Also, remember that many more features are planned! ✨" >}}
 
-BuhoCMS is a **local Content Management System** for **static site generators** like [Hugo](https://gohugo.io/) (support for others is planned for the future). 
+BuhoCMS is a **local Content Management System** for **static site generators** like [Hugo](https://gohugo.io/) and [Jekyll](https://jekyllrb.com/) (support for others is planned for the future). 
 
-See BuhoCMS as a **GUI for static site generators**. Easily create or open a Hugo site, choose your Hugo theme and add your first posts. With BuhoCMS, adding and editing content is as easy as a few clicks. No more terminal commands, folder hunting or manual Front matter edits 🥳
+See BuhoCMS as a **GUI for static site generators**. Easily create or open a website, choose your theme and add your first posts. With BuhoCMS, adding and editing content is as easy as a few clicks. No more terminal commands, folder hunting or manual Front matter edits 🥳
 
 ### Who is BuhoCMS for?
 
 BuhoCMS is made for... you 😃
 
-...that is, everyone using Hugo as a static site generator who wants an easy to use, graphical way to edit content, so that you can make the best use out of the power of a static site generator: *Creating and editing content.*
+...that is, everyone using Hugo or Jekyll as a static site generator who wants an easy to use, graphical way to edit content, so that you can make the best use out of the power of a static site generator: *Creating and editing content.*
 
 BuhoCMS is ideal for you if you land in at least one of the following categories:
 
-- You **already have a Hugo site** and want to easily edit your content from now on
-- You want to **create a new Hugo site from zero** with a graphical user interface
+- You **already have a Hugo or Jekyll site** and want to easily edit your content from now on
+- You want to **create a new Hugo or Jekyll site from zero** with a graphical user interface
 - You are a **beginner** looking for a simple way to begin your journey in using static site generators
 
 # Screenshots
@@ -39,16 +39,16 @@ BuhoCMS is ideal for you if you land in at least one of the following categories
 
 # Features
 
-- SSGs supported: [Hugo](https://gohugo.io/) 
+- SSGs supported: [Hugo](https://gohugo.io/) and [Jekyll](https://jekyllrb.com/)
 - Create or open a site
-- Install Hugo themes for your site
+- Install themes for your site
 - Add new posts and edit your Markdown content and Front matter with ease
 - Edit content: Use the Markdown toolbar for quickly adding styles
 - Markdown preview: Use the Markdown viewer to check your syntax
 - Front matter: Graphical User Interface (GUI) for each field like a Text field, Switch, Date picker, Tag editor, and more
 - Switch between GUI and raw text mode
-- Start, open and stop your local Hugo server with a click
-- Build your final Hugo site and open its "public" folder
+- Start, open and stop your local server with a click
+- Build your final website and open its folder
 - Privacy: BuhoCMS is a local program with no internet connection required – no ads, no tracking
 - Free and open source: Licensed under the GPLv3
 - Themes: Material Design with multiple color themes, both light and dark
