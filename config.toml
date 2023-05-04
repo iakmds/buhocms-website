@@ -7,5 +7,5 @@ disableKinds = ['taxonomy', 'term']
   description = "BuhoCMS is a free and open source local CMS for Hugo and Jekyll static sites"
   source = "https://github.com/iakmds/buhocms-website"
   favicon = "https://raw.githubusercontent.com/iakmds/buhocms/main/.github/icon.svg"
-  version = "0.7.0"
+  version = "0.7.1"
 
