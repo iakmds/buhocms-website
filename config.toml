@@ -6,6 +6,6 @@ disableKinds = ['taxonomy', 'term']
 [params]
   description = "BuhoCMS is a free and open source local CMS for static site generators"
   source = "https://github.com/iakmds/buhocms-website"
-  favicon = "https://raw.githubusercontent.com/iakmds/buhocms/main/.github/icon.svg"
+  favicon = "img/favicon.ico"
   version = "0.9.0"
 
